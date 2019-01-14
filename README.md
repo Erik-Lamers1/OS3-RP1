@@ -16,7 +16,7 @@ based on WHOIS information.
 
 
 ## Ethical considerations
-Our research involves active probing of on the public Internet.
+Our research involves active probing of hosts on the public Internet.
 To minimize our impact on the various stakeholders,
 we will adhere to the guidelines of the Menlo Report while conducting our research:
 * We will only use public available information to identify hosts and corresponding email addresses. (e.g. WHOIS, DNS information).
@@ -25,6 +25,6 @@ we will adhere to the guidelines of the Menlo Report while conducting our resear
 * An opt-out feature will be made available so SA’s can contact us, and we will exclude their IP range from the target list.
 * A host is defined as reachable by ICMP echo request. This is intentional, as there is a good  chance that a SA who does not want their network scanned will block ICMP echo requests. Thus by this host definition those hosts will automatically be excluded.
 
-A far more detail ethical paragraph will be included in the paper itself.
+A far more detailed ethical paragraph will be included in the paper itself.
 ### How do I opt out?
 [Opt out form](https://docs.google.com/forms/d/e/1FAIpQLScbBEUITDSsKA97qz0USSDljronYmk3p-IDOOxN68rCoiRK9A/viewform?usp=sf_link)
