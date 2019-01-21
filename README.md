@@ -27,4 +27,6 @@ we will adhere to the guidelines of the Menlo Report while conducting our resear
 
 A far more detailed ethical paragraph will be included in the paper itself.
 ### How do I opt out?
-[Opt out form](https://docs.google.com/forms/d/e/1FAIpQLScbBEUITDSsKA97qz0USSDljronYmk3p-IDOOxN68rCoiRK9A/viewform?usp=sf_link)
+Use the following: [Opt out form](https://docs.google.com/forms/d/e/1FAIpQLScbBEUITDSsKA97qz0USSDljronYmk3p-IDOOxN68rCoiRK9A/viewform?usp=sf_link)  
+Or mail to: abuse@erikhyperdev.nl  
+(Please inform us why you want to opt out, and the IP ranges you want to exclude).
